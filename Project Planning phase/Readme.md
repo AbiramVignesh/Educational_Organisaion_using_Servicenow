@@ -1,4 +1,4 @@
-# Phase 2: Project Planning
+# Project Planning
 
 This folder contains the project management plan.
 
