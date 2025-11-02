@@ -1,4 +1,4 @@
-# Phase 4: Project Design
+# Project Design
 
 This folder contains the technical blueprints for the solution.
 
