@@ -1,4 +1,4 @@
-# Phase 5: Performance Testing
+#  Performance Testing
 
 This folder contains the quality assurance (QA) and testing plan for the project.
 
