@@ -1,4 +1,4 @@
-Ideation Phase
+# Ideation Phase
 
 This folder contains the foundational documents that define the project's purpose.
 
