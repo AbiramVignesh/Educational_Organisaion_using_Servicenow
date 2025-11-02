@@ -41,7 +41,22 @@ The final application provides a single, reliable, and user-friendly interface f
 ---
 
 ## Project Documentation
-
 This repository contains all documentation for the project, organized by the standard software development lifecycle (SDLC) phases.
+* **`./Ideation phase/`**
+    * Contains the initial brainstorming, problem statement, and user empathy maps that define *why* this project exists.
 
+* **`./Project Planning Phase/`**
+    * Contains the `Project Planning (1).pdf` which outlines the project scope, milestones, timeline, and potential risks.
+
+* **`./Requirement Analysis/`**
+    * Details the *what* of the project, including functional/non-functional requirements (`Solution Requirements.pdf`), user flows (`Data Flow Diagrams...`), and the `Technology Stack Template.pdf`.
+
+* **`./Project Design Phase/`**
+    * Provides the technical *blueprint* for the solution, including the `Solution Architecture.pdf`, `Problem-Solution Fit Template.pdf`, and a `Proposed solution.pdf`.
+
+* **`./Performance Testing/`**
+    * Includes the `Performance Testing.pdf` document, which outlines all test cases, steps, and expected results to validate the application.
+
+* **`./Vedio Demo/`**
+    * Contains the final video demonstration (`.mp4`) of the completed and functional ServiceNow application.
 *
